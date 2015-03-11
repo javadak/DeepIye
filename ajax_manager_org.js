@@ -269,7 +269,7 @@ function ajax_request(form_name, params, which_chart, which_model) {
 				global_model_valuation_data_dealer = histogram_data_dealer; //dealer
 				global_similar_models_valuation_data_dealer = histogram_data_all_dealer; //dealer
 				
-				// sample depreciation data
+				// /sample depreciation data
 				
 				car_make_from_valuation=car_make;
 				car_model_from_valuation=car_model;
